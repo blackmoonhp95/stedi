@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++----------------------------------------------------------------------------------------------------------+
+|value                                                                                                     |
++----------------------------------------------------------------------------------------------------------+
+|{"customer":"Ben.Jones@test.com","score":-20.5,"email":"Ben.Jones@test.com","birthYear":"1946"}           |
+|{"customer":"Bobby.Jefferson@test.com","score":19.5,"email":"Bobby.Jefferson@test.com","birthYear":"1962"}|
+|{"customer":"Bobby.Jefferson@test.com","score":-1.0,"email":"Bobby.Jefferson@test.com","birthYear":"1962"}|
+|{"customer":"Angie.Fibonnaci@test.com","score":6.0,"email":"Angie.Fibonnaci@test.com","birthYear":"1942"} |
+|{"customer":"Gail.Aristotle@test.com","score":0.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}   |
+|{"customer":"Gail.Aristotle@test.com","score":-1.5,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-3.5,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-3.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-2.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-3.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-4.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-3.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-1.5,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-0.5,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":0.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}   |
+|{"customer":"Gail.Aristotle@test.com","score":0.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}   |
+|{"customer":"Gail.Aristotle@test.com","score":-0.5,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-2.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-3.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
+|{"customer":"Gail.Aristotle@test.com","score":-2.0,"email":"Gail.Aristotle@test.com","birthYear":"1953"}  |
++----------------------------------------------------------------------------------------------------------+
+only showing top 20 rows
+

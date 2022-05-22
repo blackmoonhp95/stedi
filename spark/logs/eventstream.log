@@ -1,0 +1,58 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+| John.Jones@test.com| -1.0|
+|Jerry.Anderson@te...| -7.0|
+|  John.Huey@test.com|-10.5|
+|Bobby.Jefferson@t...| 19.5|
+|Craig.Jones@test.com|  6.5|
+|   Angie.Wu@test.com| -2.5|
+|Christina.Aristot...| -5.5|
+| Eric.Doshi@test.com| -5.0|
+|Christina.Huey@te...| -1.5|
+|Bobby.Habschied@t...| -3.0|
+|Danny.Smith@test.com| -3.0|
+|Jacob.Fibonnaci@t...|  0.0|
+|Travis.Fibonnaci@...| -4.5|
+| Bobby.Huey@test.com| -4.0|
+|Bobby.Gonzalez@te...| -2.5|
+|Travis.Ahmed@test...| -3.0|
+|Frank.Habschied@t...| 24.5|
+|  Dan.Jones@test.com| 41.0|
+|Santosh.Anderson@...|  4.0|
+|  Ben.Jones@test.com|-20.5|
++--------------------+-----+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Neeraj.Davis@test...| -0.5|
+|Senthil.Aristotle...| -2.5|
+| Sean.Abram@test.com| -4.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Edward.Staples@te...| -2.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Bobby.Staples@tes...| -2.5|
++--------------------+-----+
+
